@@ -34,15 +34,15 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Locust](http://locust.io/)
 * [Tsung](http://tsung.erlang-projects.org/)
 * [Grinder](http://grinder.sourceforge.net/)
-* [SmartMeter.io](https://www.smartmeter.io/)
+* [SmartMeter.io](https://www.smartmeter.io/) :moneybag:
 
 ### Cloud
 
-* [Blazemeter](https://www.blazemeter.com/)
-* [CloudTest](https://www.soasta.com/load-testing/)
-* [flood IO](https://flood.io/)
-* [Loader](https://loader.io/)
-* [OctoPerf](https://octoperf.com/)
+* [Blazemeter](https://www.blazemeter.com/) :moneybag:
+* [CloudTest](https://www.soasta.com/load-testing/) :moneybag:
+* [flood IO](https://flood.io/) :moneybag:
+* [Loader](https://loader.io/) :moneybag:
+* [OctoPerf](https://octoperf.com/) :moneybag:
 
 ### Low level
 
@@ -54,7 +54,7 @@ To edit I use [Xmind](http://www.xmind.net/)
     * [NGINX SSL Performance](https://cdn.wp.nginx.com/wp-content/uploads/2014/07/NGINX-SSL-Performance.pdf) 
     * [Improving OpenSSL Performance - Intel](https://software.intel.com/en-us/articles/improving-openssl-performance)
 * [TRex Realistic traffic generator](https://trex-tgn.cisco.com/)
-* [Avalanche](https://www.spirent.com/Products/Avalanche)
+* [Avalanche](https://www.spirent.com/Products/Avalanche) :moneybag:
 
 ### Framework
 
