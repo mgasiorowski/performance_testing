@@ -2,6 +2,24 @@
 
 Pull requests welcome
 
+Table of Contents
+=================
+
+   * [Quality in mobile apps mindmap](#quality-in-mobile-apps-mindmap)
+      * [Mindmap](#mindmap)
+      * [Legend](#legend)
+      * [Backend tools](#backend-tools)
+         * [HTTP](#http)
+         * [Multi-protocol](#multi-protocol)
+         * [Cloud](#cloud)
+         * [Low level](#low-level)
+         * [Framework](#framework)
+      * [Frontend tools](#frontend-tools)
+      * [Linked](#linked)
+         * [Good to start](#good-to-start)
+         * [Continous Integration](#continous-integration)
+         * [Frontend performance](#frontend-performance)
+
 ## Mindmap
 ![Performance testing mindmap](images/performance_testing_mindmap.png)
 
