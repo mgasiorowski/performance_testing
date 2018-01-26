@@ -79,6 +79,14 @@ To edit I use [Xmind](http://www.xmind.net/)
     * [Improving OpenSSL Performance - Intel](https://software.intel.com/en-us/articles/improving-openssl-performance)
 * [TRex Realistic traffic generator](https://trex-tgn.cisco.com/)
 * [Avalanche](https://www.spirent.com/Products/Avalanche) :moneybag:
+* [hdparm -tT /dev/sda](https://linux.die.net/man/8/hdparm)
+* [dd](https://linux.die.net/man/1/dd)
+  * [How to use 'dd' to benchmark your disk or CPU?](https://romanrm.net/dd-benchmark)
+  * Write
+    * `dd bs=16k count=102400 oflag=direct if=/dev/zero of=test_data`
+    * `dd bs=1M count=256 if=/dev/zero of=test conv=fdatasync`
+  * Read
+    * `dd bs=16K count=102400 iflag=direct if=test_data of=/dev/null`
 
 ### Framework
 
