@@ -6,6 +6,7 @@ Table of Contents
 =================
 
    * [Quality in mobile apps mindmap](#quality-in-mobile-apps-mindmap)
+   * [Table of Contents](#table-of-contents)
       * [Mindmap](#mindmap)
       * [Legend](#legend)
       * [Backend tools](#backend-tools)
@@ -14,11 +15,13 @@ Table of Contents
          * [Cloud](#cloud)
          * [Low level](#low-level)
          * [Framework](#framework)
+         * [Database](#database)
       * [Frontend tools](#frontend-tools)
       * [Linked](#linked)
          * [Good to start](#good-to-start)
          * [Continous Integration](#continous-integration)
          * [Frontend performance](#frontend-performance)
+         * [Video streaming](#video-streaming)
 
 ## Mindmap
 ![Performance testing mindmap](images/performance_testing_mindmap.png)
@@ -42,6 +45,8 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [weighttp](https://redmine.lighttpd.net/projects/weighttp/wiki)
 * [httpress](https://bitbucket.org/yarosla/httpress/wiki/Home)
 * [Web Polygraph](http://www.web-polygraph.org/)
+* [Bees with Machine Guns!](https://github.com/newsapps/beeswithmachineguns)
+* [k6](https://k6.io/)
 
 ### Multi-protocol
 
@@ -53,6 +58,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Tsung](http://tsung.erlang-projects.org/)
 * [Grinder](http://grinder.sourceforge.net/)
 * [SmartMeter.io](https://www.smartmeter.io/) :moneybag:
+* [Artillery.io](https://artillery.io/)
 
 ### Cloud
 
@@ -83,6 +89,12 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Funkload](https://github.com/nuxeo/FunkLoad)
 * [Jagger](https://jagger.griddynamics.net/index.html)
 
+### Database
+
+* [dbstress](https://github.com/semberal/dbstress)
+* [HammerDB](http://www.hammerdb.com/)
+* [NdBench](https://github.com/Netflix/ndbench)
+
 ## Frontend tools
 
 * [Sitespeed.io](https://www.sitespeed.io/)
@@ -112,3 +124,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 ### Frontend performance
 
 * [Measuring Wikipedia page load times](https://phabricator.wikimedia.org/phame/live/7/post/83/measuring_wikipedia_page_load_times/)
+
+### Video streaming
+
+* [HLS | Video Streaming Performance Testing](https://www.swtestacademy.com/video-streaming-performance-testing/)
