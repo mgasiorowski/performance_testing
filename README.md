@@ -1,4 +1,4 @@
-# Quality in mobile apps mindmap
+# Performance testing mindmap
 
 Pull requests welcome
 
