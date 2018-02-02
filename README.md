@@ -138,6 +138,9 @@ To edit I use [Xmind](http://www.xmind.net/)
 ### Frontend performance
 
 * [Measuring Wikipedia page load times](https://phabricator.wikimedia.org/phame/live/7/post/83/measuring_wikipedia_page_load_times/)
+* [Rendering Metrics](https://speedcurve.com/blog/rendering-metrics/)
+* [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
+* [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 
 ### Video streaming
 
