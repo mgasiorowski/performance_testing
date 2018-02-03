@@ -1,37 +1,36 @@
-# Performance testing mindmap
+# Performance Testing Mindmap
 
 Pull requests welcome
 
 Table of Contents
 =================
 
-   * [Quality in mobile apps mindmap](#quality-in-mobile-apps-mindmap)
    * [Table of Contents](#table-of-contents)
       * [Mindmap](#mindmap)
       * [Legend](#legend)
-      * [Backend tools](#backend-tools)
+      * [Backend Tools](#backend-tools)
          * [HTTP](#http)
          * [Multi-protocol](#multi-protocol)
          * [Cloud](#cloud)
-         * [Low level](#low-level)
+         * [Low Level](#low-level)
          * [Framework](#framework)
          * [Database](#database)
-      * [Frontend tools](#frontend-tools)
-      * [Linked](#linked)
-         * [Good to start](#good-to-start)
-         * [Continous Integration](#continous-integration)
-         * [Frontend performance](#frontend-performance)
-         * [Video streaming](#video-streaming)
+      * [Frontend Tools](#frontend-tools)
+      * [Web Links](#web-links)
+         * [Where to Start](#where-to-start)
+         * [Continuous Integration](#continuous-integration)
+         * [Frontend Performance](#frontend-performance)
+         * [Video Streaming](#video-streaming)
 
 ## Mindmap
 ![Performance testing mindmap](images/performance_testing_mindmap.png)
 
-To edit I use [Xmind](http://www.xmind.net/)
+Editor: [Xmind](http://www.xmind.net/)
 
 ## Legend
-:moneybag: - Paid services, tools, etc
+:moneybag: - Paid services, tools, etc.
 
-## Backend tools
+## Backend Tools
 
 ### HTTP
 
@@ -68,7 +67,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Loader](https://loader.io/) :moneybag:
 * [OctoPerf](https://octoperf.com/) :moneybag:
 
-### Low level
+### Low Level
 
 * [stress-ng](https://github.com/ColinIanKing/stress-ng)
 * [sysbench](https://github.com/akopytov/sysbench)
@@ -90,7 +89,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Bonnie++](https://www.coker.com.au/bonnie++/)
     * [bonnie++(8) - Linux man page](https://linux.die.net/man/8/bonnie++)
 
-### Framework
+### Frameworks
 
 * [Taurus](http://gettaurus.org/)
 * [Pbench](https://github.com/distributed-system-analysis/pbench)
@@ -109,7 +108,7 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [HammerDB](http://www.hammerdb.com/)
 * [NdBench](https://github.com/Netflix/ndbench)
 
-## Frontend tools
+## Frontend Tools
 
 * [Sitespeed.io](https://www.sitespeed.io/)
 * [Webpagetest](https://www.webpagetest.org/)
@@ -118,9 +117,9 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [YSlow command line](http://yslow.org/command-line-har/)
 * [Test website performance with Puppeteer](https://michaljanaszek.com/blog/test-website-performance-with-puppeteer)
 
-## Linked
+## Web Links
 
-### Good to start
+### Where to Start
 
 * [Performance Testing Guidance for Web Applications](https://msdn.microsoft.com/pl-pl/library/bb924375.aspx)
 * [Performance Testing Checklist](http://www.seleniumtests.com/2016/02/performance-testing-checklist.html)
@@ -130,18 +129,18 @@ To edit I use [Xmind](http://www.xmind.net/)
 * [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
 * [Using Avalanche vs. TRex to Simulate CDN and Attack Traffic](https://www.incapsula.com/blog/trex-traffic-generator-software.html)
 
-### Continous Integration
+### Continuous Integration
 
 * [Continuous Integration 101: How to Run JMeter With Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins)
 * [Integrating Taurus with Jenkins](http://gettaurus.org/kb/Jenkins/)
 
-### Frontend performance
+### Frontend Performance
 
 * [Measuring Wikipedia page load times](https://phabricator.wikimedia.org/phame/live/7/post/83/measuring_wikipedia_page_load_times/)
 * [Rendering Metrics](https://speedcurve.com/blog/rendering-metrics/)
 * [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
 * [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 
-### Video streaming
+### Video Streaming
 
 * [HLS | Video Streaming Performance Testing](https://www.swtestacademy.com/video-streaming-performance-testing/)
