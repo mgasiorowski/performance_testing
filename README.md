@@ -13,9 +13,10 @@ Table of Contents
          * [Multi-protocol](#multi-protocol)
          * [Cloud](#cloud)
          * [Low Level](#low-level)
-         * [Framework](#framework)
+         * [Frameworks](#frameworks)
          * [Database](#database)
       * [Frontend Tools](#frontend-tools)
+         * [Cloud](#cloud-1)
       * [Web Links](#web-links)
          * [Where to Start](#where-to-start)
          * [Continuous Integration](#continuous-integration)
@@ -111,11 +112,17 @@ Editor: [Xmind](http://www.xmind.net/)
 ## Frontend Tools
 
 * [Sitespeed.io](https://www.sitespeed.io/)
-* [Webpagetest](https://www.webpagetest.org/)
-    * [Private Instances](https://github.com/WPO-Foundation/webpagetest-docs/blob/master/user/Private%20Instances/README.md)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 * [YSlow command line](http://yslow.org/command-line-har/)
 * [Test website performance with Puppeteer](https://michaljanaszek.com/blog/test-website-performance-with-puppeteer)
+
+### Cloud
+* [Webpagetest](https://www.webpagetest.org/)
+    * [Private Instances](https://github.com/WPO-Foundation/webpagetest-docs/blob/master/user/Private%20Instances/README.md)
+* [SpeedCurve](https://speedcurve.com/)
+* [GTmetrix](https://gtmetrix.com/)
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* [Website Speed Test](http://sitespeedtester.com/)
 
 ## Web Links
 
