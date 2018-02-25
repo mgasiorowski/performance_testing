@@ -15,6 +15,7 @@ Table of Contents
          * [Low Level](#low-level)
          * [Frameworks](#frameworks)
          * [Database](#database)
+         * [Other](#other)
       * [Frontend Tools](#frontend-tools)
          * [Cloud](#cloud-1)
       * [Web Links](#web-links)
@@ -67,6 +68,7 @@ Editor: [Xmind](http://www.xmind.net/)
 * [flood IO](https://flood.io/) :moneybag:
 * [Loader](https://loader.io/) :moneybag:
 * [OctoPerf](https://octoperf.com/) :moneybag:
+* [Loadmill](https://www.never-crash.com/) :moneybag:
 
 ### Low Level
 
@@ -108,6 +110,12 @@ Editor: [Xmind](http://www.xmind.net/)
 * [dbstress](https://github.com/semberal/dbstress)
 * [HammerDB](http://www.hammerdb.com/)
 * [NdBench](https://github.com/Netflix/ndbench)
+* [Yahoo! Cloud System Benchmark (YCSB)](https://github.com/brianfrankcooper/YCSB)
+    * [Yahoo Cloud Serving Benchmark](https://research.yahoo.com/news/yahoo-cloud-serving-benchmark/)
+
+### Other
+
+* [Dynamometer](https://github.com/linkedin/dynamometer)
 
 ## Frontend Tools
 
@@ -135,6 +143,11 @@ Editor: [Xmind](http://www.xmind.net/)
 * [3 best practices for container performance testing](https://techbeacon.com/3-best-practices-container-performance-testing)
 * [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
 * [Using Avalanche vs. TRex to Simulate CDN and Attack Traffic](https://www.incapsula.com/blog/trex-traffic-generator-software.html)
+* [Open Source Load Testing Tool Benchmarks V2](http://blog.loadimpact.com/open-source-load-testing-tool-benchmarks-v2)
+* [A Quick Start Guide To Learning Performance Testing](https://dojo.ministryoftesting.com/lessons/a-quick-start-guide-to-learning-performance-testing)
+* [Performance: which testing tool and why?](https://club.ministryoftesting.com/t/performance-which-testing-tool-and-why)
+* [JMeter vs. Locust - Which One Should You Choose?](https://www.blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose)
+* [Elasticsearch Load Testing - Learn How](https://www.blazemeter.com/blog/elasticsearch-load-testing-learn-how)
 
 ### Continuous Integration
 
@@ -147,6 +160,7 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Rendering Metrics](https://speedcurve.com/blog/rendering-metrics/)
 * [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
 * [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+* [Web Performance Fundamentals: what is the Speed Index?](https://blog.dareboost.com/en/2018/02/speed-index-web-performance/)
 
 ### Video Streaming
 
