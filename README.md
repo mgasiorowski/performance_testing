@@ -23,6 +23,7 @@ Table of Contents
          * [Continuous Integration](#continuous-integration)
          * [Frontend Performance](#frontend-performance)
          * [Video Streaming](#video-streaming)
+      * [Community](#community)
 
 ## Mindmap
 ![Performance testing mindmap](images/performance_testing_mindmap.png)
@@ -165,3 +166,6 @@ Editor: [Xmind](http://www.xmind.net/)
 ### Video Streaming
 
 * [HLS | Video Streaming Performance Testing](https://www.swtestacademy.com/video-streaming-performance-testing/)
+
+## Community
+* [Jmeter users slack](https://jmeterusers.slack.com/)
