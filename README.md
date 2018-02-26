@@ -134,7 +134,12 @@ Editor: [Xmind](http://www.xmind.net/)
 * [SpeedCurve](https://speedcurve.com/)
 * [GTmetrix](https://gtmetrix.com/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* [Google Mobile Website Speed Testing Tool](https://testmysite.withgoogle.com)
 * [Website Speed Test](http://sitespeedtester.com/)
+* [Pingdom](https://www.pingdom.com/) :moneybag:
+* [KeyCDN Website Speed Test](https://tools.keycdn.com/speed)
+* [DareBoost](https://www.dareboost.com) :moneybag:
+* [Site Relic](https://tools.geekflare.com/)
 
 ## Web Links
 
