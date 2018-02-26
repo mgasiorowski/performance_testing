@@ -49,16 +49,19 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Web Polygraph](http://www.web-polygraph.org/)
 * [Bees with Machine Guns!](https://github.com/newsapps/beeswithmachineguns)
 * [k6](https://k6.io/)
+* [Goad](https://github.com/goadapp/goad)
 
 ### Multi-protocol
 
 * [Jmeter](http://jmeter.apache.org/)
+    [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter)
 * [LoadRunner](http://www8.hp.com/pl/pl/software-solutions/loadrunner-load-testing/) :moneybag:
 * [NeoLoad](https://www.neotys.com/neoload/overview) :moneybag:
 * [LoadComplete](https://smartbear.com/product/loadcomplete/overview/) :moneybag:
 * [Locust](http://locust.io/)
 * [Tsung](http://tsung.erlang-projects.org/)
 * [Grinder](http://grinder.sourceforge.net/)
+    * [nGrinder](http://naver.github.io/ngrinder/)
 * [SmartMeter.io](https://www.smartmeter.io/) :moneybag:
 * [Artillery.io](https://artillery.io/)
 
@@ -149,6 +152,7 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Performance: which testing tool and why?](https://club.ministryoftesting.com/t/performance-which-testing-tool-and-why)
 * [JMeter vs. Locust - Which One Should You Choose?](https://www.blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose)
 * [Elasticsearch Load Testing - Learn How](https://www.blazemeter.com/blog/elasticsearch-load-testing-learn-how)
+* [HTTP Load Testing with Vegeta (and a dash of Python)](https://serialized.net/2017/06/load-testing-with-vegeta-and-python/)
 
 ### Continuous Integration
 
