@@ -131,14 +131,14 @@ Editor: [Xmind](http://www.xmind.net/)
 ### Cloud
 * [Webpagetest](https://www.webpagetest.org/)
     * [Private Instances](https://github.com/WPO-Foundation/webpagetest-docs/blob/master/user/Private%20Instances/README.md)
-* [SpeedCurve](https://speedcurve.com/)
-* [GTmetrix](https://gtmetrix.com/)
+* [SpeedCurve](https://speedcurve.com/) :moneybag:
+* [GTmetrix](https://gtmetrix.com/) :moneybag:
+* [Pingdom](https://www.pingdom.com/) :moneybag:
+* [DareBoost](https://www.dareboost.com) :moneybag:
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Google Mobile Website Speed Testing Tool](https://testmysite.withgoogle.com)
 * [Website Speed Test](http://sitespeedtester.com/)
-* [Pingdom](https://www.pingdom.com/) :moneybag:
 * [KeyCDN Website Speed Test](https://tools.keycdn.com/speed)
-* [DareBoost](https://www.dareboost.com) :moneybag:
 * [Site Relic](https://tools.geekflare.com/)
 
 ## Web Links
