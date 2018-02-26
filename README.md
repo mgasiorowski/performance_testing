@@ -153,6 +153,7 @@ Editor: [Xmind](http://www.xmind.net/)
 * [JMeter vs. Locust - Which One Should You Choose?](https://www.blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose)
 * [Elasticsearch Load Testing - Learn How](https://www.blazemeter.com/blog/elasticsearch-load-testing-learn-how)
 * [HTTP Load Testing with Vegeta (and a dash of Python)](https://serialized.net/2017/06/load-testing-with-vegeta-and-python/)
+* [Locust Assertions - A Complete User Manual](https://www.blazemeter.com/blog/locust-assertions-a-complete-user-manual)
 
 ### Continuous Integration
 
@@ -166,6 +167,7 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
 * [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 * [Web Performance Fundamentals: what is the Speed Index?](https://blog.dareboost.com/en/2018/02/speed-index-web-performance/)
+* [A Beginner’s Guide to Website Speed Optimization](https://kinsta.com/learn/page-speed/)
 
 ### Video Streaming
 
