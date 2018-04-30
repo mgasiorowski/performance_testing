@@ -52,6 +52,7 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Bees with Machine Guns!](https://github.com/newsapps/beeswithmachineguns)
 * [k6](https://k6.io/)
 * [Goad](https://github.com/goadapp/goad)
+* [hurl](https://github.com/VerizonDigital/hurl)
 
 ### Multi-protocol
 
@@ -97,6 +98,7 @@ Editor: [Xmind](http://www.xmind.net/)
     * `dd bs=16K count=102400 iflag=direct if=test_data of=/dev/null`
 * [Bonnie++](https://www.coker.com.au/bonnie++/)
     * [bonnie++(8) - Linux man page](https://linux.die.net/man/8/bonnie++)
+* [hyperfine](https://github.com/sharkdp/hyperfine)
 
 ### Frameworks
 
@@ -129,6 +131,8 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 * [YSlow command line](http://yslow.org/command-line-har/)
 * [Test website performance with Puppeteer](https://michaljanaszek.com/blog/test-website-performance-with-puppeteer)
+* [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
+    * [Mobile-Friendly Test API for Node.js](https://github.com/denar90/mobile-friendly)
 
 ### Cloud
 * [Webpagetest](https://www.webpagetest.org/)
@@ -142,6 +146,8 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Website Speed Test](http://sitespeedtester.com/)
 * [KeyCDN Website Speed Test](https://tools.keycdn.com/speed)
 * [Site Relic](https://tools.geekflare.com/)
+* [Treo](https://treo.sh/) :moneybag:
+* [Calibre](https://calibreapp.com/) :moneybag:
 
 ## Web Links
 
@@ -175,6 +181,7 @@ Editor: [Xmind](http://www.xmind.net/)
 * [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 * [Web Performance Fundamentals: what is the Speed Index?](https://blog.dareboost.com/en/2018/02/speed-index-web-performance/)
 * [A Beginner’s Guide to Website Speed Optimization](https://kinsta.com/learn/page-speed/)
+* [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 
 ### Video Streaming
 
