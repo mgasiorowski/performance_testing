@@ -41,7 +41,10 @@ Editor: [Xmind](http://www.xmind.net/)
 
 * [Siege](https://www.joedog.org/siege-home/)
 * [Apache Benchmark](https://httpd.apache.org/docs/2.4/programs/ab.html)
+* [Boom!](https://github.com/tarekziade/boom)
+	* [Break](https://github.com/tarekziade/break)
 * [wrk](https://github.com/wg/wrk)
+	* [WRK the HTTP benchmarking tool - Advanced Example](http://czerasz.com/2015/07/19/wrk-http-benchmarking-tool-example/)
 * [Vegeta](https://github.com/tsenart/vegeta)
 * [Gatling](https://gatling.io/)
 * [httperf](https://github.com/httperf/httperf)
@@ -53,6 +56,8 @@ Editor: [Xmind](http://www.xmind.net/)
 * [k6](https://k6.io/)
 * [Goad](https://github.com/goadapp/goad)
 * [hurl](https://github.com/VerizonDigital/hurl)
+* [autocannon](https://github.com/mcollina/autocannon)
+* [Iago, A Load Generator](https://github.com/twitter/iago)
 
 ### Multi-protocol
 
@@ -133,6 +138,8 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Test website performance with Puppeteer](https://michaljanaszek.com/blog/test-website-performance-with-puppeteer)
 * [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
     * [Mobile-Friendly Test API for Node.js](https://github.com/denar90/mobile-friendly)
+* [browser-perf](https://github.com/axemclion/browser-perf)
+* [speed-demon](https://github.com/morsssss/speed-demon)
 
 ### Cloud
 * [Webpagetest](https://www.webpagetest.org/)
@@ -144,6 +151,7 @@ Editor: [Xmind](http://www.xmind.net/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Google Mobile Website Speed Testing Tool](https://testmysite.withgoogle.com)
 * [Website Speed Test](http://sitespeedtester.com/)
+* [Website Speed Test - Cloudinary](https://webspeedtest.cloudinary.com/)
 * [KeyCDN Website Speed Test](https://tools.keycdn.com/speed)
 * [Site Relic](https://tools.geekflare.com/)
 * [Treo](https://treo.sh/) :moneybag:
@@ -167,6 +175,8 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Elasticsearch Load Testing - Learn How](https://www.blazemeter.com/blog/elasticsearch-load-testing-learn-how)
 * [HTTP Load Testing with Vegeta (and a dash of Python)](https://serialized.net/2017/06/load-testing-with-vegeta-and-python/)
 * [Locust Assertions - A Complete User Manual](https://www.blazemeter.com/blog/locust-assertions-a-complete-user-manual)
+* [Performance: Testing and Tuning - DZone's Guide](https://dzone.com/guides/performance-testing-and-tuning-1)
+* [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers](https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/)
 
 ### Continuous Integration
 
@@ -182,6 +192,10 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Web Performance Fundamentals: what is the Speed Index?](https://blog.dareboost.com/en/2018/02/speed-index-web-performance/)
 * [A Beginner’s Guide to Website Speed Optimization](https://kinsta.com/learn/page-speed/)
 * [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+* [Measuring HTTP response times with cURL](https://ops.tips/gists/measuring-http-response-times-curl/)
+	* [Analyze Your Website’s TTFB (Time to First Byte)](https://haydenjames.io/analyze-websites-ttfb-time-first-byte/)
+* [Awesome WPO - A curated list of Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+* [First Input Delay](https://developers.google.com/web/updates/2018/05/first-input-delay)
 
 ### Video Streaming
 
