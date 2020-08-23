@@ -1,11 +1,11 @@
-# Performance Testing Mindmap
+# Performance Testing
 
 Pull requests welcome
 
 Table of Contents
 =================
 
-   * [Performance Testing Mindmap](#performance-testing-mindmap)
+   * [Performance Testing](#performance-testing)
    * [Table of Contents](#table-of-contents)
       * [Legend](#legend)
       * [Backend Tools](#backend-tools)
@@ -29,7 +29,6 @@ Table of Contents
          * [Cloud](#cloud-2)
          * [Video Streaming](#video-streaming)
       * [Community](#community)
-      * [Mindmap](#mindmap)
    * [Contributing](#contributing)
    * [License](#license)
 
@@ -154,6 +153,7 @@ Table of Contents
 
 * [Dynamometer](https://github.com/linkedin/dynamometer)
 * [Rally is the macrobenchmarking framework for Elasticsearch](https://github.com/elastic/rally)
+* [Airflow PerfKit](https://github.com/apache/airflow/tree/master/tests/utils/perf/perf_kit)
 
 ## Frontend Tools
 
@@ -258,11 +258,6 @@ Table of Contents
 ## Community
 * [Jmeter users slack](https://jmeterusers.slack.com/)
 
-## Mindmap
-![Performance testing mindmap](images/performance_testing_mindmap.png)
-
-Editor: [Xmind](http://www.xmind.net/)
-
 # Contributing
 
 1. Fork it!
@@ -276,7 +271,7 @@ Editor: [Xmind](http://www.xmind.net/)
 ```
 MIT License
 
-Copyright (c) 2018 Maciej Gąsiorowski
+Copyright (c) 2020 Maciej Gąsiorowski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
