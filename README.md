@@ -5,13 +5,15 @@ Pull requests welcome
 Table of Contents
 =================
 
+   * [Performance Testing Mindmap](#performance-testing-mindmap)
    * [Table of Contents](#table-of-contents)
-      * [Mindmap](#mindmap)
       * [Legend](#legend)
       * [Backend Tools](#backend-tools)
          * [HTTP](#http)
          * [Multi-protocol](#multi-protocol)
          * [Cloud](#cloud)
+         * [Cluster](#cluster)
+         * [Machine learning](#machine-learning)
          * [Low Level](#low-level)
          * [Frameworks](#frameworks)
          * [Database](#database)
@@ -22,15 +24,14 @@ Table of Contents
          * [Where to Start](#where-to-start)
          * [Continuous Integration](#continuous-integration)
          * [Frontend Performance](#frontend-performance)
+         * [Cluster](#cluster-1)
+         * [Database](#database-1)
+         * [Cloud](#cloud-2)
          * [Video Streaming](#video-streaming)
       * [Community](#community)
+      * [Mindmap](#mindmap)
    * [Contributing](#contributing)
    * [License](#license)
-
-## Mindmap
-![Performance testing mindmap](images/performance_testing_mindmap.png)
-
-Editor: [Xmind](http://www.xmind.net/)
 
 ## Legend
 :moneybag: - Paid services, tools, etc.
@@ -58,11 +59,17 @@ Editor: [Xmind](http://www.xmind.net/)
 * [hurl](https://github.com/VerizonDigital/hurl)
 * [autocannon](https://github.com/mcollina/autocannon)
 * [Iago, A Load Generator](https://github.com/twitter/iago)
+* [hey](https://github.com/rakyll/hey)
+* [Drill](https://github.com/fcsonline/drill)
+* [Bombardier](https://github.com/coding-yogi/bombardier)
 
 ### Multi-protocol
 
 * [Jmeter](http://jmeter.apache.org/)
-    [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter)
+    * [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter)
+    * [Jmeter Cluster Support for Kubernetes and OpenShift](https://github.com/kubernauts/jmeter-kubernetes)
+    * [Jmeter-operator](https://github.com/kubernauts/jmeter-operator)
+    * [AutoMeter](https://github.com/intuit/autometer)
 * [LoadRunner](http://www8.hp.com/pl/pl/software-solutions/loadrunner-load-testing/) :moneybag:
 * [NeoLoad](https://www.neotys.com/neoload/overview) :moneybag:
 * [LoadComplete](https://smartbear.com/product/loadcomplete/overview/) :moneybag:
@@ -72,6 +79,8 @@ Editor: [Xmind](http://www.xmind.net/)
     * [nGrinder](http://naver.github.io/ngrinder/)
 * [SmartMeter.io](https://www.smartmeter.io/) :moneybag:
 * [Artillery.io](https://artillery.io/)
+* [Fortio](https://github.com/fortio/fortio/)
+* [loadtest](https://www.npmjs.com/package/loadtest)
 
 ### Cloud
 
@@ -80,7 +89,17 @@ Editor: [Xmind](http://www.xmind.net/)
 * [flood IO](https://flood.io/) :moneybag:
 * [Loader](https://loader.io/) :moneybag:
 * [OctoPerf](https://octoperf.com/) :moneybag:
-* [Loadmill](https://www.never-crash.com/) :moneybag:
+* [Loadmill](https://www.loadmill.io/) :moneybag:
+
+### Cluster
+
+* [NodeWrecker](https://github.com/jaeg/NodeWrecker)
+* [Kubernetes perf-tests](https://github.com/kubernetes/perf-tests)
+* [kboom - A simple Kubernetes load testing tool](https://github.com/mhausenblas/kboom)
+
+### Machine learning
+
+* [loadtest - load testing from R](https://github.com/tmobile/loadtest)
 
 ### Low Level
 
@@ -104,6 +123,9 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Bonnie++](https://www.coker.com.au/bonnie++/)
     * [bonnie++(8) - Linux man page](https://linux.die.net/man/8/bonnie++)
 * [hyperfine](https://github.com/sharkdp/hyperfine)
+* [perf](https://perf.wiki.kernel.org/index.php/Main_Page)
+* [TKperf](https://github.com/thomas-krenn/TKperf)
+* [haydenjames - bench-scripts](https://github.com/haydenjames/bench-scripts)
 
 ### Frameworks
 
@@ -117,6 +139,7 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Yandex Tank](https://github.com/yandex/yandex-tank)
 * [PerfCake](http://perfcake.org/)
 	* [PerfCake - a Lightweight Open Source Performance Testing Tool](http://www.methodsandtools.com/tools/perfcake.php)
+* [Performance testing framework](https://github.com/serputko/performance-testing-framework)
 
 ### Database
 
@@ -125,25 +148,34 @@ Editor: [Xmind](http://www.xmind.net/)
 * [NdBench](https://github.com/Netflix/ndbench)
 * [Yahoo! Cloud System Benchmark (YCSB)](https://github.com/brianfrankcooper/YCSB)
     * [Yahoo Cloud Serving Benchmark](https://research.yahoo.com/news/yahoo-cloud-serving-benchmark/)
+* [memtier_benchmark](https://github.com/RedisLabs/memtier_benchmark)
 
 ### Other
 
 * [Dynamometer](https://github.com/linkedin/dynamometer)
+* [Rally is the macrobenchmarking framework for Elasticsearch](https://github.com/elastic/rally)
 
 ## Frontend Tools
 
 * [Sitespeed.io](https://www.sitespeed.io/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+    * [Lighthouse Monitor](https://github.com/verivox/lighthouse-monitor)
 * [YSlow command line](http://yslow.org/command-line-har/)
 * [Test website performance with Puppeteer](https://michaljanaszek.com/blog/test-website-performance-with-puppeteer)
 * [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
     * [Mobile-Friendly Test API for Node.js](https://github.com/denar90/mobile-friendly)
 * [browser-perf](https://github.com/axemclion/browser-perf)
 * [speed-demon](https://github.com/morsssss/speed-demon)
+* [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/)
+* [Benchmark.js](https://benchmarkjs.com/)
+* [YellowLabTools](https://github.com/YellowLabTools/YellowLabTools)
+* [PerfMap: front-end performance heatmap](https://github.com/zeman/perfmap)
+* [Web Vitals Chrome Extension (alpha)](https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha)
 
 ### Cloud
 * [Webpagetest](https://www.webpagetest.org/)
     * [Private Instances](https://github.com/WPO-Foundation/webpagetest-docs/blob/master/user/Private%20Instances/README.md)
+    * [Falco](https://github.com/theodo/falco)
 * [SpeedCurve](https://speedcurve.com/) :moneybag:
 * [GTmetrix](https://gtmetrix.com/) :moneybag:
 * [Pingdom](https://www.pingdom.com/) :moneybag:
@@ -156,6 +188,8 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Site Relic](https://tools.geekflare.com/)
 * [Treo](https://treo.sh/) :moneybag:
 * [Calibre](https://calibreapp.com/) :moneybag:
+* [MachMetrics](https://www.machmetrics.com/) :moneybag:
+* [Treo](https://treo.sh/) :moneybag:
 
 ## Web Links
 
@@ -177,6 +211,13 @@ Editor: [Xmind](http://www.xmind.net/)
 * [Locust Assertions - A Complete User Manual](https://www.blazemeter.com/blog/locust-assertions-a-complete-user-manual)
 * [Performance: Testing and Tuning - DZone's Guide](https://dzone.com/guides/performance-testing-and-tuning-1)
 * [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers](https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/)
+* [60 great resources for performance engineering teams](https://techbeacon.com/app-dev-testing/60-great-resources-performance-engineering-teams)
+* [Packet generators comparison](https://codilime.com/wp-content/uploads/2020/03/codilime_packet-generators-comparison.pdf) ([Codilime](https://codilime.com/))
+* [Every Web Performance Test Tool](https://www.swyx.io/writing/webperf-tests/)
+* [LOAD SCENARIO MODELING 1: ONE PROCESS](https://www.srperf.com/load-modeling-1/)
+* [HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)](https://github.com/denji/awesome-http-benchmark)
+* [A Better Way of Reporting Performance Test Results](https://www.stickyminds.com/article/better-way-reporting-performance-test-results)
+* [25 TIPS FOR A PERFORMANCE ENGINEER](https://www.linkedin.com/pulse/13-tips-performance-engineer-stijn-schepers/)
 
 ### Continuous Integration
 
@@ -196,6 +237,19 @@ Editor: [Xmind](http://www.xmind.net/)
 	* [Analyze Your Website’s TTFB (Time to First Byte)](https://haydenjames.io/analyze-websites-ttfb-time-first-byte/)
 * [Awesome WPO - A curated list of Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 * [First Input Delay](https://developers.google.com/web/updates/2018/05/first-input-delay)
+* [wed.dev - Metrics](https://web.dev/metrics/)
+
+### Cluster
+
+* [Measuring of API performance of container cluster systems](https://docs.openstack.org/developer/performance-docs/test_plans/container_cluster_systems/API_latency.html#measuring-of-api-performance-of-container-cluster-system)
+* [Testing the Performance of the NGINX Ingress Controller for Kubernetes](https://dzone.com/articles/testing-the-performance-of-the-nginx-ingress-contr)
+
+### Database
+
+* [Open Source Database Testing Tools](https://www.softwaretestingmagazine.com/tools/open-source-database-testing-tools/)
+
+### Cloud
+* [Distributed load testing using Google Kubernetes Engine](https://cloud.google.com/solutions/distributed-load-testing-using-gke)
 
 ### Video Streaming
 
@@ -203,6 +257,11 @@ Editor: [Xmind](http://www.xmind.net/)
 
 ## Community
 * [Jmeter users slack](https://jmeterusers.slack.com/)
+
+## Mindmap
+![Performance testing mindmap](images/performance_testing_mindmap.png)
+
+Editor: [Xmind](http://www.xmind.net/)
 
 # Contributing
 
