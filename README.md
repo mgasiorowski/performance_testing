@@ -81,7 +81,7 @@ Table of Contents
 * [Fortio](https://github.com/fortio/fortio/)
 * [loadtest](https://www.npmjs.com/package/loadtest)
 
-### Cloud
+### Web services
 
 * [Blazemeter](https://www.blazemeter.com/) :moneybag:
 * [CloudTest](https://www.soasta.com/load-testing/) :moneybag:
@@ -127,6 +127,7 @@ Table of Contents
 * [netperf](https://hewlettpackard.github.io/netperf/)
 * [TKperf](https://github.com/thomas-krenn/TKperf)
 * [haydenjames - bench-scripts](https://github.com/haydenjames/bench-scripts)
+* [Ethr](https://github.com/Microsoft/ethr)
 
 ### Frameworks
 
@@ -175,7 +176,8 @@ Table of Contents
 * [PerfMap: front-end performance heatmap](https://github.com/zeman/perfmap)
 * [Web Vitals Chrome Extension (alpha)](https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha)
 
-### Cloud
+### Web services
+
 * [Webpagetest](https://www.webpagetest.org/)
     * [Private Instances](https://github.com/WPO-Foundation/webpagetest-docs/blob/master/user/Private%20Instances/README.md)
     * [Falco](https://github.com/theodo/falco)
@@ -193,6 +195,7 @@ Table of Contents
 * [Calibre](https://calibreapp.com/) :moneybag:
 * [MachMetrics](https://www.machmetrics.com/) :moneybag:
 * [Treo](https://treo.sh/) :moneybag:
+* [DebugBear](https://www.debugbear.com/) :moneybag:
 
 ## Web Links
 
@@ -221,6 +224,7 @@ Table of Contents
 * [HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)](https://github.com/denji/awesome-http-benchmark)
 * [A Better Way of Reporting Performance Test Results](https://www.stickyminds.com/article/better-way-reporting-performance-test-results)
 * [25 TIPS FOR A PERFORMANCE ENGINEER](https://www.linkedin.com/pulse/13-tips-performance-engineer-stijn-schepers/)
+* [Lessons Learned in Performance Testing](https://www.infoq.com/articles/lessons-learned-performance-testing/)
 
 ### Continuous Integration
 
@@ -241,6 +245,7 @@ Table of Contents
 * [Awesome WPO - A curated list of Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 * [First Input Delay](https://developers.google.com/web/updates/2018/05/first-input-delay)
 * [wed.dev - Metrics](https://web.dev/metrics/)
+* [How to read a WebPageTest Connection View chart](https://nooshu.github.io/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart/)
 
 ### Cluster
 
