@@ -194,7 +194,6 @@ Table of Contents
 * [Treo](https://treo.sh/) :moneybag:
 * [Calibre](https://calibreapp.com/) :moneybag:
 * [MachMetrics](https://www.machmetrics.com/) :moneybag:
-* [Treo](https://treo.sh/) :moneybag:
 * [DebugBear](https://www.debugbear.com/) :moneybag:
 
 ## Web Links
