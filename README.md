@@ -11,7 +11,7 @@ Table of Contents
       * [Backend Tools](#backend-tools)
          * [HTTP](#http)
          * [Multi-protocol](#multi-protocol)
-         * [Cloud](#cloud)
+         * [Web services](#web-services)
          * [Cluster](#cluster)
          * [Machine learning](#machine-learning)
          * [Low Level](#low-level)
@@ -19,14 +19,14 @@ Table of Contents
          * [Database](#database)
          * [Other](#other)
       * [Frontend Tools](#frontend-tools)
-         * [Cloud](#cloud-1)
+         * [Web services](#web-services-1)
       * [Web Links](#web-links)
          * [Where to Start](#where-to-start)
          * [Continuous Integration](#continuous-integration)
          * [Frontend Performance](#frontend-performance)
          * [Cluster](#cluster-1)
          * [Database](#database-1)
-         * [Cloud](#cloud-2)
+         * [Cloud](#cloud)
          * [Video Streaming](#video-streaming)
       * [Community](#community)
    * [Contributing](#contributing)
@@ -43,8 +43,11 @@ Table of Contents
 * [Apache Benchmark](https://httpd.apache.org/docs/2.4/programs/ab.html)
 * [Boom!](https://github.com/tarekziade/boom)
 	* [Break](https://github.com/tarekziade/break)
-* [wrk](https://github.com/wg/wrk)
-	* [WRK the HTTP benchmarking tool - Advanced Example](http://czerasz.com/2015/07/19/wrk-http-benchmarking-tool-example/)
+* wrk
+    * [wrk](https://github.com/wg/wrk)
+        * [WRK the HTTP benchmarking tool - Advanced Example](http://czerasz.com/2015/07/19/wrk-http-benchmarking-tool-example/)
+    * [wrk2](https://github.com/giltene/wrk2)
+    * [Wrk2Img](https://github.com/PPACI/wrk2img)
 * [Vegeta](https://github.com/tsenart/vegeta)
 * [Gatling](https://gatling.io/)
 * [httperf](https://github.com/httperf/httperf)
@@ -61,6 +64,11 @@ Table of Contents
 * [hey](https://github.com/rakyll/hey)
 * [Drill](https://github.com/fcsonline/drill)
 * [Bombardier](https://github.com/coding-yogi/bombardier)
+* [Flood Element](https://github.com/flood-io/element)
+* [Predator](https://github.com/Zooz/predator)
+* [Distributed Load Testing on AWS](https://docs.aws.amazon.com/solutions/latest/distributed-load-testing-on-aws/welcome.html)
+* [Kraken](https://github.com/OctoPerf/kraken)
+* [Barrage](https://github.com/cjimison/barrage)
 
 ### Multi-protocol
 
@@ -69,6 +77,7 @@ Table of Contents
     * [Jmeter Cluster Support for Kubernetes and OpenShift](https://github.com/kubernauts/jmeter-kubernetes)
     * [Jmeter-operator](https://github.com/kubernauts/jmeter-operator)
     * [AutoMeter](https://github.com/intuit/autometer)
+    * [UBIK LOAD PACK](https://github.com/ubikloadpack)
 * [LoadRunner](http://www8.hp.com/pl/pl/software-solutions/loadrunner-load-testing/) :moneybag:
 * [NeoLoad](https://www.neotys.com/neoload/overview) :moneybag:
 * [LoadComplete](https://smartbear.com/product/loadcomplete/overview/) :moneybag:
@@ -80,6 +89,12 @@ Table of Contents
 * [Artillery.io](https://artillery.io/)
 * [Fortio](https://github.com/fortio/fortio/)
 * [loadtest](https://www.npmjs.com/package/loadtest)
+* [IBM Rational Performance Tester](https://www.ibm.com/developerworks/downloads/r/rpt/index.html) :moneybag:
+* [Oracle Application Testing Suite](https://www.oracle.com/enterprise-manager/downloads/oats-downloads.html) :moneybag:
+* [Distributed Load Testing on AWS](https://docs.aws.amazon.com/solutions/latest/distributed-load-testing-on-aws/welcome.html) :moneybag:
+* [LoadUI](https://www.soapui.org/tools/readyapi/api-performance-testing/) :moneybag:
+* [LoadNinja](https://loadninja.com/) :moneybag:
+* [Loadster](https://loadster.app/) :moneybag:
 
 ### Web services
 
@@ -89,6 +104,15 @@ Table of Contents
 * [Loader](https://loader.io/) :moneybag:
 * [OctoPerf](https://octoperf.com/) :moneybag:
 * [Loadmill](https://www.loadmill.io/) :moneybag:
+* [LoadView](https://www.loadview-testing.com/) :moneybag:
+* [rungutan](https://rungutan.com/) :moneybag:
+* [RedLine13](https://www.redline13.com/blog/) :moneybag:
+* [LoadFocus](https://loadfocus.com/) :moneybag:
+* [StormForger](https://stormforger.com/) :moneybag:
+* [Appvance IQ](https://www.appvance.com/appvance-iq/load-and-performance-testing) :moneybag:
+* [Silk Performer](https://www.microfocus.com/en-us/products/silk-performer/overview) :moneybag:
+* [Azure Test Plans](https://azure.microsoft.com/en-us/services/devops/test-plans/) :moneybag:
+* [RoboSwarm](https://roboswarm.dev/)
 
 ### Cluster
 
@@ -158,6 +182,7 @@ Table of Contents
 * [Rally is the macrobenchmarking framework for Elasticsearch](https://github.com/elastic/rally)
 * [Airflow PerfKit](https://github.com/apache/airflow/tree/master/tests/utils/perf/perf_kit)
 * [PerfKit Benchmarker](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker)
+* [httpstat](https://github.com/reorx/httpstat)
 
 ## Frontend Tools
 
@@ -196,6 +221,10 @@ Table of Contents
 * [MachMetrics](https://www.machmetrics.com/) :moneybag:
 * [Treo](https://treo.sh/) :moneybag:
 * [DebugBear](https://www.debugbear.com/) :moneybag:
+* [web.dev measure](https://web.dev/measure/)
+* [SpeedMonitor.io](https://speedmonitor.io/)
+* [PageSpeed Compare](https://pagespeed.compare/)
+* [Website-Performance-Monitoring-Collection](https://github.com/QAInsights/Website-Performance-Monitoring-Collection)
 
 ## Web Links
 
@@ -225,6 +254,7 @@ Table of Contents
 * [A Better Way of Reporting Performance Test Results](https://www.stickyminds.com/article/better-way-reporting-performance-test-results)
 * [25 TIPS FOR A PERFORMANCE ENGINEER](https://www.linkedin.com/pulse/13-tips-performance-engineer-stijn-schepers/)
 * [Lessons Learned in Performance Testing](https://www.infoq.com/articles/lessons-learned-performance-testing/)
+* [Performance Engineering Questions](https://github.com/QAInsights/Performance-Engineering-Questions)
 
 ### Continuous Integration
 
@@ -246,6 +276,8 @@ Table of Contents
 * [First Input Delay](https://developers.google.com/web/updates/2018/05/first-input-delay)
 * [wed.dev - Metrics](https://web.dev/metrics/)
 * [How to read a WebPageTest Connection View chart](https://nooshu.github.io/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart/)
+* [The Ultimate Guide to Web Performance](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
+* [Every Web Performance Test Tool](https://www.swyx.io/webperf-tests/)
 
 ### Cluster
 
