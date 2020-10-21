@@ -112,7 +112,7 @@ Table of Contents
 * [Appvance IQ](https://www.appvance.com/appvance-iq/load-and-performance-testing) :moneybag:
 * [Silk Performer](https://www.microfocus.com/en-us/products/silk-performer/overview) :moneybag:
 * [Azure Test Plans](https://azure.microsoft.com/en-us/services/devops/test-plans/) :moneybag:
-* [RoboSwarm](https://roboswarm.dev/)
+* [RoboSwarm](https://roboswarm.dev/) :moneybag:
 
 ### Cluster
 
@@ -219,7 +219,6 @@ Table of Contents
 * [Treo](https://treo.sh/) :moneybag:
 * [Calibre](https://calibreapp.com/) :moneybag:
 * [MachMetrics](https://www.machmetrics.com/) :moneybag:
-* [Treo](https://treo.sh/) :moneybag:
 * [DebugBear](https://www.debugbear.com/) :moneybag:
 * [web.dev measure](https://web.dev/measure/)
 * [SpeedMonitor.io](https://speedmonitor.io/)
