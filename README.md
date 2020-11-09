@@ -152,6 +152,7 @@ Table of Contents
 * [TKperf](https://github.com/thomas-krenn/TKperf)
 * [haydenjames - bench-scripts](https://github.com/haydenjames/bench-scripts)
 * [Ethr](https://github.com/Microsoft/ethr)
+* [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
 
 ### Frameworks
 
