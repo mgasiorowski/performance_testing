@@ -57,6 +57,7 @@ Table of Contents
 * [Web Polygraph](http://www.web-polygraph.org/)
 * [Bees with Machine Guns!](https://github.com/newsapps/beeswithmachineguns)
 * [k6](https://k6.io/)
+    * [har-to-k6](https://github.com/loadimpact/har-to-k6)
 * [Goad](https://github.com/goadapp/goad)
 * [hurl](https://github.com/VerizonDigital/hurl)
 * [autocannon](https://github.com/mcollina/autocannon)
@@ -69,6 +70,8 @@ Table of Contents
 * [Distributed Load Testing on AWS](https://docs.aws.amazon.com/solutions/latest/distributed-load-testing-on-aws/welcome.html)
 * [Kraken](https://github.com/OctoPerf/kraken)
 * [Barrage](https://github.com/cjimison/barrage)
+* [NBomber](https://github.com/PragmaticFlow/NBomber)
+* [Microsoft.Crank](https://github.com/dotnet/crank)
 
 ### Multi-protocol
 
@@ -78,10 +81,15 @@ Table of Contents
     * [Jmeter-operator](https://github.com/kubernauts/jmeter-operator)
     * [AutoMeter](https://github.com/intuit/autometer)
     * [UBIK LOAD PACK](https://github.com/ubikloadpack)
+    * [mqtt-jmeter](https://github.com/xmeter-net/mqtt-jmeter)
+    * [CassJMeter](https://github.com/Netflix/CassJMeter)
+    * [AKS based scalable Jmeter Test Framework with Grafana](https://github.com/petegrimsdale/aks_testing_fwk)
+    * [jmeter-iso8583](https://github.com/tilln/jmeter-iso8583)
 * [LoadRunner](http://www8.hp.com/pl/pl/software-solutions/loadrunner-load-testing/) :moneybag:
 * [NeoLoad](https://www.neotys.com/neoload/overview) :moneybag:
 * [LoadComplete](https://smartbear.com/product/loadcomplete/overview/) :moneybag:
 * [Locust](http://locust.io/)
+    * [Swarm](https://github.com/SvenskaSpel/locust-swarm)
 * [Tsung](http://tsung.erlang-projects.org/)
 * [Grinder](http://grinder.sourceforge.net/)
     * [nGrinder](http://naver.github.io/ngrinder/)
@@ -153,6 +161,7 @@ Table of Contents
 * [haydenjames - bench-scripts](https://github.com/haydenjames/bench-scripts)
 * [Ethr](https://github.com/Microsoft/ethr)
 * [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
+* [uroboros](https://github.com/evilsocket/uroboros)
 
 ### Frameworks
 
@@ -184,12 +193,15 @@ Table of Contents
 * [Airflow PerfKit](https://github.com/apache/airflow/tree/master/tests/utils/perf/perf_kit)
 * [PerfKit Benchmarker](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker)
 * [httpstat](https://github.com/reorx/httpstat)
+* [HttpRunner](https://github.com/httprunner/httprunner)
+* [A Murder of Crows](https://github.com/esl/amoc)
 
 ## Frontend Tools
 
 * [Sitespeed.io](https://www.sitespeed.io/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
     * [Lighthouse Monitor](https://github.com/verivox/lighthouse-monitor)
+    * [Lighthouse Parade](https://github.com/cloudfour/lighthouse-parade)
 * [YSlow command line](http://yslow.org/command-line-har/)
 * [Test website performance with Puppeteer](https://michaljanaszek.com/blog/test-website-performance-with-puppeteer)
 * [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
@@ -225,6 +237,9 @@ Table of Contents
 * [SpeedMonitor.io](https://speedmonitor.io/)
 * [PageSpeed Compare](https://pagespeed.compare/)
 * [Website-Performance-Monitoring-Collection](https://github.com/QAInsights/Website-Performance-Monitoring-Collection)
+* [EStimator](https://estimator.dev/)
+* [Chrome UX Report Compare Tool](https://crux-compare.netlify.app/)
+* [TREO SITE SPEED](https://treo.sh/sitespeed)
 
 ## Web Links
 
@@ -232,6 +247,7 @@ Table of Contents
 
 * [Performance Testing Guidance for Web Applications](https://msdn.microsoft.com/pl-pl/library/bb924375.aspx)
 * [Performance Testing Checklist](http://www.seleniumtests.com/2016/02/performance-testing-checklist.html)
+* [Checklist for performance testing](https://www.agilequalitymadeeasy.com/post/checklist-for-performance-testing)
 * [JMeter Tutorial for Load Testing – The ULTIMATE Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 * [High Performance Browser Networking](https://hpbn.co/)
 * [3 best practices for container performance testing](https://techbeacon.com/3-best-practices-container-performance-testing)
@@ -255,6 +271,10 @@ Table of Contents
 * [25 TIPS FOR A PERFORMANCE ENGINEER](https://www.linkedin.com/pulse/13-tips-performance-engineer-stijn-schepers/)
 * [Lessons Learned in Performance Testing](https://www.infoq.com/articles/lessons-learned-performance-testing/)
 * [Performance Engineering Questions](https://github.com/QAInsights/Performance-Engineering-Questions)
+* [JMeter Integration with Elastic](https://qainsights.com/jmeter-integration-with-elastic/)
+* [Servers Performance Monitoring in JMeter](https://qainsights.com/servers-performance-monitoring-in-jmeter/)
+* [Statistical approaches for performance analysis](https://aakinshin.net/posts/statistics-for-performance/)
+* [Workload Modeling and Profiles for Load Testing](https://smartbear.com/blog/test-and-monitor/workload-modeling-and-profiles-for-load-testing/)
 
 ### Continuous Integration
 
@@ -265,7 +285,7 @@ Table of Contents
 
 * [Measuring Wikipedia page load times](https://phabricator.wikimedia.org/phame/live/7/post/83/measuring_wikipedia_page_load_times/)
 * [Rendering Metrics](https://speedcurve.com/blog/rendering-metrics/)
-* [Front-End Performance Checklist 2018](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
+* [Front-End Performance Checklist](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
 * [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 * [Web Performance Fundamentals: what is the Speed Index?](https://blog.dareboost.com/en/2018/02/speed-index-web-performance/)
 * [A Beginner’s Guide to Website Speed Optimization](https://kinsta.com/learn/page-speed/)
@@ -290,6 +310,7 @@ Table of Contents
 
 ### Cloud
 * [Distributed load testing using Google Kubernetes Engine](https://cloud.google.com/solutions/distributed-load-testing-using-gke)
+* [Why you need cloud load testing, and how to find the right tools](https://techbeacon.com/app-dev-testing/why-you-need-cloud-load-testing-how-find-right-tools)
 
 ### Video Streaming
 
