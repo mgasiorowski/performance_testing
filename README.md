@@ -139,7 +139,7 @@ Table of Contents
 * [Phoronix Test Suite](https://www.phoronix-test-suite.com/)
     * [Phoromatic](https://www.phoronix-test-suite.com/?k=phoromatic)
 * [OpenSSL Speed](https://www.openssl.org/docs/manmaster/man1/openssl-speed.html)
-    * [NGINX SSL Performance](https://cdn.wp.nginx.com/wp-content/uploads/2014/07/NGINX-SSL-Performance.pdf) 
+    * [NGINX SSL Performance](https://cdn.wp.nginx.com/wp-content/uploads/2014/07/NGINX-SSL-Performance.pdf)
     * [Improving OpenSSL Performance - Intel](https://software.intel.com/en-us/articles/improving-openssl-performance)
 * [TRex Realistic traffic generator](https://trex-tgn.cisco.com/)
 * [Avalanche](https://www.spirent.com/Products/Avalanche) :moneybag:
@@ -238,6 +238,7 @@ Table of Contents
 * [PageSpeed Compare](https://pagespeed.compare/)
 * [Website-Performance-Monitoring-Collection](https://github.com/QAInsights/Website-Performance-Monitoring-Collection)
 * [EStimator](https://estimator.dev/)
+* [Cumulative Layout Shift Debugger](https://webvitals.dev/cls)
 * [Chrome UX Report Compare Tool](https://crux-compare.netlify.app/)
 * [TREO SITE SPEED](https://treo.sh/sitespeed)
 
