@@ -19,6 +19,7 @@ Table of Contents
          * [Database](#database)
          * [Other](#other)
          * [Reports](#reports)
+         * [Load distribution](#load-distribution)
       * [Frontend Tools](#frontend-tools)
          * [Web services](#web-services-1)
       * [Web Links](#web-links)
@@ -79,6 +80,7 @@ Table of Contents
 * [Terjang](https://github.com/andylibrian/terjang)
 * [reqstress](https://github.com/utkusen/reqstress)
 * [Goose](https://github.com/tag1consulting/goose)
+* [h2load](https://nghttp2.org/documentation/h2load-howto.html)
 
 ### Multi-protocol
 
@@ -88,7 +90,8 @@ Table of Contents
     * [Jmeter-operator](https://github.com/kubernauts/jmeter-operator)
     * [AutoMeter](https://github.com/intuit/autometer)
     * [UBIK LOAD PACK](https://github.com/ubikloadpack)
-    * [mqtt-jmeter](https://github.com/xmeter-net/mqtt-jmeter)
+    * [mqtt-jmeter - xmeter-net](https://github.com/xmeter-net/mqtt-jmeter)
+    * [mqtt-jmeter - tuanhiep](https://github.com/tuanhiep/mqttjmeter)
     * [CassJMeter](https://github.com/Netflix/CassJMeter)
     * [AKS based scalable Jmeter Test Framework with Grafana](https://github.com/petegrimsdale/aks_testing_fwk)
     * [jmeter-iso8583](https://github.com/tilln/jmeter-iso8583)
@@ -136,6 +139,8 @@ Table of Contents
 * [Kubernetes perf-tests](https://github.com/kubernetes/perf-tests)
 * [kboom - A simple Kubernetes load testing tool](https://github.com/mhausenblas/kboom)
 * [Kube-burner](https://github.com/cloud-bulldozer/kube-burner)
+* [Kubestr](https://github.com/kastenhq/kubestr)
+* [dbench - Benchmark Kubernetes persistent disk volumes](https://github.com/leeliu/dbench)
 
 ### Machine learning
 
@@ -174,6 +179,7 @@ Table of Contents
 * [CpuStres](https://docs.microsoft.com/en-us/sysinternals/downloads/cpustres)
 * [Testlimit](https://docs.microsoft.com/en-us/sysinternals/downloads/testlimit)
 * [DBENCH](https://dbench.samba.org/)
+* [stress](https://linux.die.net/man/1/stress)
 
 ### Frameworks
 
@@ -200,6 +206,7 @@ Table of Contents
 * [pgbench](https://www.postgresql.org/docs/12/pgbench.html)
 * [Druid Benchmark](https://github.com/druid-io/druid-benchmark)
 * [BenchBase](https://github.com/cmu-db/benchbase)
+* [mysqlslap](https://mariadb.com/kb/en/mysqlslap/)
 
 ### Other
 
@@ -226,6 +233,10 @@ Table of Contents
 
 * [Automated Performance Test Results Analysis](https://github.com/JoeyHendricks/automated-performance-test-result-analysis)
 * [SCOUTER](https://github.com/scouter-project/scouter)
+
+### Load distribution
+
+* [Kangal - Automatic loader](https://github.com/hellofresh/kangal)
 
 ## Frontend Tools
 
@@ -309,6 +320,7 @@ Table of Contents
 * [Workload Modeling and Profiles for Load Testing](https://smartbear.com/blog/test-and-monitor/workload-modeling-and-profiles-for-load-testing/)
 * [Performance Testing Calculators](https://www.perftractor.xyz/)
 * [Performance Engineers Utilities](https://github.com/QAInsights/Performance-Engineers-Utilities)
+* [How to Set your performance testing acceptance criteria](https://thetesttherapist.com/2020/11/02/how-to-set-your-performance-testing-acceptance-criteria)
 
 ### Continuous Integration
 
@@ -344,8 +356,11 @@ Table of Contents
 * [Open Source Database Testing Tools](https://www.softwaretestingmagazine.com/tools/open-source-database-testing-tools/)
 
 ### Cloud
+
 * [Distributed load testing using Google Kubernetes Engine](https://cloud.google.com/solutions/distributed-load-testing-using-gke)
 * [Why you need cloud load testing, and how to find the right tools](https://techbeacon.com/app-dev-testing/why-you-need-cloud-load-testing-how-find-right-tools)
+* [Distributed Load Testing Using Argo in Kubernetes ( Distro )](https://sumitnagal.medium.com/distributed-load-testing-using-argo-in-kubernetes-distro-132c350f8733)
+* [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
 
 ### Video Streaming
 
