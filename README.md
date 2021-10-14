@@ -18,6 +18,7 @@ Table of Contents
          * [Frameworks](#frameworks)
          * [Database](#database)
          * [Other](#other)
+         * [Reports](#reports)
       * [Frontend Tools](#frontend-tools)
          * [Web services](#web-services-1)
       * [Web Links](#web-links)
@@ -28,6 +29,7 @@ Table of Contents
          * [Database](#database-1)
          * [Cloud](#cloud)
          * [Video Streaming](#video-streaming)
+         * [Other](#other-1)
       * [Community](#community)
    * [Contributing](#contributing)
    * [License](#license)
@@ -72,6 +74,11 @@ Table of Contents
 * [Barrage](https://github.com/cjimison/barrage)
 * [NBomber](https://github.com/PragmaticFlow/NBomber)
 * [Microsoft.Crank](https://github.com/dotnet/crank)
+* [Ddosify](https://github.com/ddosify/ddosify)
+* [Cassowary](https://github.com/rogerwelin/cassowary)
+* [Terjang](https://github.com/andylibrian/terjang)
+* [reqstress](https://github.com/utkusen/reqstress)
+* [Goose](https://github.com/tag1consulting/goose)
 
 ### Multi-protocol
 
@@ -85,6 +92,7 @@ Table of Contents
     * [CassJMeter](https://github.com/Netflix/CassJMeter)
     * [AKS based scalable Jmeter Test Framework with Grafana](https://github.com/petegrimsdale/aks_testing_fwk)
     * [jmeter-iso8583](https://github.com/tilln/jmeter-iso8583)
+    * [HLSPluging](https://github.com/Blazemeter/HLSPlugin)
 * [LoadRunner](http://www8.hp.com/pl/pl/software-solutions/loadrunner-load-testing/) :moneybag:
 * [NeoLoad](https://www.neotys.com/neoload/overview) :moneybag:
 * [LoadComplete](https://smartbear.com/product/loadcomplete/overview/) :moneybag:
@@ -127,6 +135,7 @@ Table of Contents
 * [NodeWrecker](https://github.com/jaeg/NodeWrecker)
 * [Kubernetes perf-tests](https://github.com/kubernetes/perf-tests)
 * [kboom - A simple Kubernetes load testing tool](https://github.com/mhausenblas/kboom)
+* [Kube-burner](https://github.com/cloud-bulldozer/kube-burner)
 
 ### Machine learning
 
@@ -162,6 +171,9 @@ Table of Contents
 * [Ethr](https://github.com/Microsoft/ethr)
 * [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
 * [uroboros](https://github.com/evilsocket/uroboros)
+* [CpuStres](https://docs.microsoft.com/en-us/sysinternals/downloads/cpustres)
+* [Testlimit](https://docs.microsoft.com/en-us/sysinternals/downloads/testlimit)
+* [DBENCH](https://dbench.samba.org/)
 
 ### Frameworks
 
@@ -185,6 +197,9 @@ Table of Contents
 * [Yahoo! Cloud System Benchmark (YCSB)](https://github.com/brianfrankcooper/YCSB)
     * [Yahoo Cloud Serving Benchmark](https://research.yahoo.com/news/yahoo-cloud-serving-benchmark/)
 * [memtier_benchmark](https://github.com/RedisLabs/memtier_benchmark)
+* [pgbench](https://www.postgresql.org/docs/12/pgbench.html)
+* [Druid Benchmark](https://github.com/druid-io/druid-benchmark)
+* [BenchBase](https://github.com/cmu-db/benchbase)
 
 ### Other
 
@@ -195,6 +210,22 @@ Table of Contents
 * [httpstat](https://github.com/reorx/httpstat)
 * [HttpRunner](https://github.com/httprunner/httprunner)
 * [A Murder of Crows](https://github.com/esl/amoc)
+* [S3 Benchmark](https://github.com/dvassallo/s3-benchmark)
+* [MQTT Stresser](https://github.com/inovex/mqtt-stresser)
+* [MQTT benchmarking tool](https://github.com/krylovsk/mqtt-benchmark)
+* [redis-benchmark](https://redis.io/topics/benchmarks)
+* [memtier_benchmark](https://github.com/redislabs/memtier_benchmark)
+* [rpc-perf](https://github.com/twitter/rpc-perf)
+* [Java Microbenchmark Harness (JMH)](https://github.com/openjdk/jmh)
+    * [jmh-compare-gui](https://github.com/akarnokd/jmh-compare-gui)
+* [Load Testing Shiny Applications](https://github.com/rstudio/shinyloadtest)
+* [nailgun (DNS)](https://github.com/leshow/nailgun)
+* [gRPC benchmarking and load testing tool](https://ghz.sh/)
+
+### Reports
+
+* [Automated Performance Test Results Analysis](https://github.com/JoeyHendricks/automated-performance-test-result-analysis)
+* [SCOUTER](https://github.com/scouter-project/scouter)
 
 ## Frontend Tools
 
@@ -276,6 +307,8 @@ Table of Contents
 * [Servers Performance Monitoring in JMeter](https://qainsights.com/servers-performance-monitoring-in-jmeter/)
 * [Statistical approaches for performance analysis](https://aakinshin.net/posts/statistics-for-performance/)
 * [Workload Modeling and Profiles for Load Testing](https://smartbear.com/blog/test-and-monitor/workload-modeling-and-profiles-for-load-testing/)
+* [Performance Testing Calculators](https://www.perftractor.xyz/)
+* [Performance Engineers Utilities](https://github.com/QAInsights/Performance-Engineers-Utilities)
 
 ### Continuous Integration
 
@@ -299,6 +332,7 @@ Table of Contents
 * [How to read a WebPageTest Connection View chart](https://nooshu.github.io/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart/)
 * [The Ultimate Guide to Web Performance](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 * [Every Web Performance Test Tool](https://www.swyx.io/webperf-tests/)
+* [The Complete Front-End Performance Testing Guide](https://testguild.com/front-end-performance-guide/)
 
 ### Cluster
 
@@ -316,6 +350,10 @@ Table of Contents
 ### Video Streaming
 
 * [HLS | Video Streaming Performance Testing](https://www.swtestacademy.com/video-streaming-performance-testing/)
+
+### Other
+
+* [gRPC benchmarking](https://grpc.io/docs/guides/benchmarking/)
 
 ## Community
 * [Jmeter users slack](https://jmeterusers.slack.com/)
