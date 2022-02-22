@@ -37,6 +37,7 @@ Table of Contents
 
 ## Legend
 :moneybag: - Paid services, tools, etc.
+:exclamation: - Repository not maintanded
 
 ## Backend Tools
 
@@ -61,6 +62,7 @@ Table of Contents
 * [Bees with Machine Guns!](https://github.com/newsapps/beeswithmachineguns)
 * [k6](https://k6.io/)
     * [har-to-k6](https://github.com/loadimpact/har-to-k6)
+    * [xk6-dashboard](https://github.com/szkiba/xk6-dashboard)
 * [Goad](https://github.com/goadapp/goad)
 * [hurl](https://github.com/VerizonDigital/hurl)
 * [autocannon](https://github.com/mcollina/autocannon)
@@ -81,6 +83,7 @@ Table of Contents
 * [reqstress](https://github.com/utkusen/reqstress)
 * [Goose](https://github.com/tag1consulting/goose)
 * [h2load](https://nghttp2.org/documentation/h2load-howto.html)
+* [plow](https://github.com/six-ddc/plow)
 
 ### Multi-protocol
 
@@ -96,6 +99,8 @@ Table of Contents
     * [AKS based scalable Jmeter Test Framework with Grafana](https://github.com/petegrimsdale/aks_testing_fwk)
     * [jmeter-iso8583](https://github.com/tilln/jmeter-iso8583)
     * [HLSPluging](https://github.com/Blazemeter/HLSPlugin)
+    * [DI-KafkaMeter](https://github.com/rollno748/di-kafkameter)
+    * [Load Testing Center](https://github.com/innogames/ltc)
 * [LoadRunner](http://www8.hp.com/pl/pl/software-solutions/loadrunner-load-testing/) :moneybag:
 * [NeoLoad](https://www.neotys.com/neoload/overview) :moneybag:
 * [LoadComplete](https://smartbear.com/product/loadcomplete/overview/) :moneybag:
@@ -132,6 +137,7 @@ Table of Contents
 * [Silk Performer](https://www.microfocus.com/en-us/products/silk-performer/overview) :moneybag:
 * [Azure Test Plans](https://azure.microsoft.com/en-us/services/devops/test-plans/) :moneybag:
 * [RoboSwarm](https://roboswarm.dev/) :moneybag:
+* [Loadsy ](https://www.loadsy.io/) :moneybag:
 
 ### Cluster
 
@@ -145,6 +151,7 @@ Table of Contents
 ### Machine learning
 
 * [loadtest - load testing from R](https://github.com/tmobile/loadtest)
+* [SuperBench](https://github.com/microsoft/superbenchmark)
 
 ### Low Level
 
@@ -199,7 +206,6 @@ Table of Contents
 
 * [dbstress](https://github.com/semberal/dbstress)
 * [HammerDB](http://www.hammerdb.com/)
-* [NdBench](https://github.com/Netflix/ndbench)
 * [Yahoo! Cloud System Benchmark (YCSB)](https://github.com/brianfrankcooper/YCSB)
     * [Yahoo Cloud Serving Benchmark](https://research.yahoo.com/news/yahoo-cloud-serving-benchmark/)
 * [memtier_benchmark](https://github.com/RedisLabs/memtier_benchmark)
@@ -207,6 +213,9 @@ Table of Contents
 * [Druid Benchmark](https://github.com/druid-io/druid-benchmark)
 * [BenchBase](https://github.com/cmu-db/benchbase)
 * [mysqlslap](https://mariadb.com/kb/en/mysqlslap/)
+* [py-tpcc](https://github.com/apavlo/py-tpcc)
+* [LinkBench ](https://github.com/facebookarchive/linkbench) :exclamation:
+* [LinkBenchX](https://github.com/Percona-Lab/linkbenchX)
 
 ### Other
 
@@ -228,6 +237,11 @@ Table of Contents
 * [Load Testing Shiny Applications](https://github.com/rstudio/shinyloadtest)
 * [nailgun (DNS)](https://github.com/leshow/nailgun)
 * [gRPC benchmarking and load testing tool](https://ghz.sh/)
+* [ripley - replay HTTP](https://github.com/loveholidays/ripley)
+* [NdBench](https://github.com/Netflix/ndbench)
+* [DNSBlast](https://github.com/jedisct1/dnsblast)
+* [AWS LoadTest Distribuited Terraform Module](https://github.com/marcosborges/terraform-aws-loadtest-distribuited)
+* [HPC benchmarks for Python](https://github.com/dionhaefner/pyhpc-benchmarks)
 
 ### Reports
 
@@ -244,6 +258,7 @@ Table of Contents
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
     * [Lighthouse Monitor](https://github.com/verivox/lighthouse-monitor)
     * [Lighthouse Parade](https://github.com/cloudfour/lighthouse-parade)
+    * [Lighthouse Audit Service](https://github.com/spotify/lighthouse-audit-service)
 * [YSlow command line](http://yslow.org/command-line-har/)
 * [Test website performance with Puppeteer](https://michaljanaszek.com/blog/test-website-performance-with-puppeteer)
 * [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
@@ -255,6 +270,8 @@ Table of Contents
 * [YellowLabTools](https://github.com/YellowLabTools/YellowLabTools)
 * [PerfMap: front-end performance heatmap](https://github.com/zeman/perfmap)
 * [Web Vitals Chrome Extension (alpha)](https://github.com/GoogleChrome/web-vitals-extension#web-vitals-chrome-extension-alpha)
+* [fuite](https://github.com/nolanlawson/fuite) - fuite is a CLI tool for finding memory leaks in web apps.
+* [react-performance-testing](https://github.com/keiya01/react-performance-testing)
 
 ### Web services
 
@@ -386,7 +403,7 @@ Table of Contents
 ```
 MIT License
 
-Copyright (c) 2021 Maciej Gąsiorowski
+Copyright (c) 2022 Maciej Gąsiorowski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
