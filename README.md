@@ -63,6 +63,7 @@ Table of Contents
 * [k6](https://k6.io/)
     * [har-to-k6](https://github.com/loadimpact/har-to-k6)
     * [xk6-dashboard](https://github.com/szkiba/xk6-dashboard)
+    * [K6 HTML Report Exporter v2](https://github.com/benc-uk/k6-reporter)
 * [Goad](https://github.com/goadapp/goad)
 * [hurl](https://github.com/VerizonDigital/hurl)
 * [autocannon](https://github.com/mcollina/autocannon)
@@ -84,6 +85,7 @@ Table of Contents
 * [Goose](https://github.com/tag1consulting/goose)
 * [h2load](https://nghttp2.org/documentation/h2load-howto.html)
 * [plow](https://github.com/six-ddc/plow)
+* [RIP](https://github.com/bjarneo/rip)
 
 ### Multi-protocol
 
@@ -101,11 +103,16 @@ Table of Contents
     * [HLSPluging](https://github.com/Blazemeter/HLSPlugin)
     * [DI-KafkaMeter](https://github.com/rollno748/di-kafkameter)
     * [Load Testing Center](https://github.com/innogames/ltc)
+    * [Jmeter DSL](https://github.com/abstracta/jmeter-java-dsl)
+    * [Microsoft Azure plugin for Apache JMeter™](https://github.com/pnopjp/jmeter-plugins)
+    * [JMeter WebSocket Samplers](https://github.com/Luminis-Arnhem/jmeter-websocket-samplers)
+    * [jmeter-plugins.org](https://jmeter-plugins.org/)
 * [LoadRunner](http://www8.hp.com/pl/pl/software-solutions/loadrunner-load-testing/) :moneybag:
 * [NeoLoad](https://www.neotys.com/neoload/overview) :moneybag:
 * [LoadComplete](https://smartbear.com/product/loadcomplete/overview/) :moneybag:
 * [Locust](http://locust.io/)
     * [Swarm](https://github.com/SvenskaSpel/locust-swarm)
+    * [Locust Exporter](https://github.com/ContainerSolutions/locust_exporter)
 * [Tsung](http://tsung.erlang-projects.org/)
 * [Grinder](http://grinder.sourceforge.net/)
     * [nGrinder](http://naver.github.io/ngrinder/)
@@ -147,6 +154,8 @@ Table of Contents
 * [Kube-burner](https://github.com/cloud-bulldozer/kube-burner)
 * [Kubestr](https://github.com/kastenhq/kubestr)
 * [dbench - Benchmark Kubernetes persistent disk volumes](https://github.com/leeliu/dbench)
+* [k8s-bench-suite](https://github.com/InfraBuilder/k8s-bench-suite)
+* [Kubernetes perf-tests](https://github.com/kubernetes/perf-tests)
 
 ### Machine learning
 
@@ -242,6 +251,8 @@ Table of Contents
 * [DNSBlast](https://github.com/jedisct1/dnsblast)
 * [AWS LoadTest Distribuited Terraform Module](https://github.com/marcosborges/terraform-aws-loadtest-distribuited)
 * [HPC benchmarks for Python](https://github.com/dionhaefner/pyhpc-benchmarks)
+* [Performance Testing Framework for Apache Kafka](https://github.com/aws-samples/performance-testing-framework-for-apache-kafka)
+* [Apache SkyWalking](https://skywalking.apache.org/)
 
 ### Reports
 
@@ -300,6 +311,7 @@ Table of Contents
 * [Cumulative Layout Shift Debugger](https://webvitals.dev/cls)
 * [Chrome UX Report Compare Tool](https://crux-compare.netlify.app/)
 * [TREO SITE SPEED](https://treo.sh/sitespeed)
+* [Lighthouse metrics](https://lighthouse-metrics.com/)
 
 ## Web Links
 
@@ -338,6 +350,10 @@ Table of Contents
 * [Performance Testing Calculators](https://www.perftractor.xyz/)
 * [Performance Engineers Utilities](https://github.com/QAInsights/Performance-Engineers-Utilities)
 * [How to Set your performance testing acceptance criteria](https://thetesttherapist.com/2020/11/02/how-to-set-your-performance-testing-acceptance-criteria)
+* [Ten things you should learn before learning about performance testing](https://qainsights.com/ten-things-you-should-learn-before-learning-about-performance-testing/)
+* [Becoming a Performance Engineer](https://github.com/QAInsights/Becoming-a-Performance-Engineer)
+* [Extension of Little’s Law for correct workload modelling in Performance Testing](https://www.perfmatrix.com/extension-of-littles-law-for-correct-workload-modelling-in-performance-testing/)
+* [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
 
 ### Continuous Integration
 
@@ -367,6 +383,7 @@ Table of Contents
 
 * [Measuring of API performance of container cluster systems](https://docs.openstack.org/developer/performance-docs/test_plans/container_cluster_systems/API_latency.html#measuring-of-api-performance-of-container-cluster-system)
 * [Testing the Performance of the NGINX Ingress Controller for Kubernetes](https://dzone.com/articles/testing-the-performance-of-the-nginx-ingress-contr)
+* [Continuous Profiling in Kubernetes Using Pyroscope](https://www.infracloud.io/blogs/continuous-profiling-kubernetes-pyroscope/)
 
 ### Database
 
