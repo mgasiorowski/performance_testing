@@ -251,6 +251,7 @@ Table of Contents
 * [DNSBlast](https://github.com/jedisct1/dnsblast)
 * [AWS LoadTest Distribuited Terraform Module](https://github.com/marcosborges/terraform-aws-loadtest-distribuited)
 * [HPC benchmarks for Python](https://github.com/dionhaefner/pyhpc-benchmarks)
+* [perftester: A lightweight framework for performance testing of Python functions](https://github.com/nyggus/perftester)
 * [Performance Testing Framework for Apache Kafka](https://github.com/aws-samples/performance-testing-framework-for-apache-kafka)
 * [Apache SkyWalking](https://skywalking.apache.org/)
 
