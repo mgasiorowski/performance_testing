@@ -139,6 +139,7 @@ Table of Contents
 * [rungutan](https://rungutan.com/) :moneybag:
 * [RedLine13](https://www.redline13.com/blog/) :moneybag:
 * [LoadFocus](https://loadfocus.com/) :moneybag:
+* [Speedscale](https://speedscale.com/) :moneybag:
 * [StormForger](https://stormforger.com/) :moneybag:
 * [Appvance IQ](https://www.appvance.com/appvance-iq/load-and-performance-testing) :moneybag:
 * [Silk Performer](https://www.microfocus.com/en-us/products/silk-performer/overview) :moneybag:
